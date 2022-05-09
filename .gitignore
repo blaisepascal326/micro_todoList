@@ -13,3 +13,6 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+user/conf/conf.ini
+user/go.sum
+.idea
